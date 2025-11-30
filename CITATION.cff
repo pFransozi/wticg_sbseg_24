@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: >
+  If you use this repository in your research, please cite the following paper.
+
+title: "wticg_sbseg_24: Seleção de Características Multiobjetivo para Detecção de Malwares Android"
+type: software
+repository-code: "https://github.com/pFransozi/wticg_sbseg_24"
+license: "MIT"
+
+authors:
+  - family-names: "Fransozi"
+    given-names: "Philipe"
+  - family-names: "Geremias"
+    given-names: "Jhonatan"
+  - family-names: "Viegas"
+    given-names: "Eduardo K."
+  - family-names: "Santin"
+    given-names: "Altair O."
+
+preferred-citation:
+  type: conference-paper
+  title: "Seleção de Características Multiobjetivo para Detecção de Malwares Android"
+  authors:
+    - family-names: "Fransozi"
+      given-names: "Philipe"
+    - family-names: "Geremias"
+      given-names: "Jhonatan"
+    - family-names: "Viegas"
+      given-names: "Eduardo K."
+    - family-names: "Santin"
+      given-names: "Altair O."
+  year: 2024
+  collection-title: "WTICG @ SBSEG 2024"
+  # conference acrônimo / local podem ser adicionados aqui se quiser
+  url: "https://github.com/pFransozi/wticg_sbseg_24"
