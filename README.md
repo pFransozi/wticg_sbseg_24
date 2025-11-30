@@ -164,9 +164,14 @@ Exemplo (BibTeX genérico – ajuste de acordo com a publicação final):
 
 ``` bibtex
 @inproceedings{Fransozi2024NSGAAndroid,
-  author    = {Philipe Fransozi and Jhonatan Geremias and Eduardo K. Viegas and Altair O. Santin},
+  author    = {Fransozi, Philipe and Geremias, Jhonatan and Viegas, Eduardo K. and Santin, Altair O.},
   title     = {Seleção de Características Multiobjetivo para Detecção de Malwares Android},
-  booktitle = {WTICG @ SBSEG},
-  year      = {2024}
+  booktitle = {Anais Estendidos do Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSEG)},
+  year      = {2024},
+  publisher = {Sociedade Brasileira de Computação (SBC)},
+  address   = {Porto Alegre, RS, Brasil},
+  doi       = {10.5753/sbseg_estendido.2024.241836},
+  url       = {https://doi.org/10.5753/sbseg_estendido.2024.241836}
 }
+
 ```
